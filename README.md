@@ -1,6 +1,5 @@
  ## A Recipe Search App
-Created to help user reduce meal-time anxiety by inputing recipe names or ingredients as a query and returns a list of recipies along with a list of ingredients for each recipe. 
- 
+Created to help users reduce meal-time anxiety by inputting recipe names or ingredients as a query and returns a list of recipes along with a list of ingredients for each recipe.
  
 ## Features
 
