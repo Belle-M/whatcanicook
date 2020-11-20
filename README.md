@@ -6,3 +6,4 @@ Created to help users reduce meal-time anxiety by inputting recipe names or ingr
 * Built using HTML, CSS, JavaScript, Jquery and API
 * Mobile-responsive
 
+https://belle-m.github.io/whatcanicook/
